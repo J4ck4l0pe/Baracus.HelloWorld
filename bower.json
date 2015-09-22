@@ -1,0 +1,23 @@
+{
+  "name": "Baracus.HelloWorld",
+  "version": "1.0.0",
+  "description": "Baracus.HelloWorld",
+  "private": true,
+  "author": [
+    {
+      "name": "Thomas Seberechts",
+      "email": "thomas@bamboo3.be"
+    }
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha",
+    "font-awesome": "~4.4.0",
+    "jquery": "~2.1.0",
+    "gsap": "~1.18.0",
+    "angular": "1.4.6-build.4236+sha.19ecdb5",
+    "angular-animate": "~1.4.5"
+  },
+  "resolutions": {
+    "jquery": "3.0.0-alpha1+compat"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "angular",
+  "version": "1.4.6-build.4236+sha.19ecdb5",
+  "main": "./angular.js",
+  "ignore": [],
+  "dependencies": {},
+  "homepage": "https://github.com/angular/bower-angular",
+  "_release": "1.4.6-build.4236+sha.19ecdb5",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.4.6-build.4236+sha.19ecdb5",
+    "commit": "91d12f458893c6ddae8c2078f42da04b49679fef"
+  },
+  "_source": "git://github.com/angular/bower-angular.git",
+  "_target": "1.4.6-build.4236+sha.19ecdb5",
+  "_originalSource": "angular"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Baracus.HelloWorld",
+  "version": "1.0.0",
+  "description": "Baracus.HelloWorld",
+  "main": "server/index.js",
+  "private": true,
+  "author": {
+    "name": "Thomas",
+    "email": "thomas@bamboo3.be"
+  },
+  "engines": {
+    "node": "~0.12.7",
+    "npm": "~2.14.0"
+  },
+  "dependencies": {
+    "body-parser": "~1.13.3",
+    "compression": "~1.5.0",
+    "ejs": "~2.3.3",
+    "express": "~4.13.0",
+    "helmet": "~0.10.0",
+    "mongoose": "^4.1.7",
+    "morgan": "~1.6.0",
+    "nodemailer": "~1.4.0",
+    "serve-favicon": "~2.3.0"
+  }
+}
